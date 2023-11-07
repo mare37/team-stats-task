@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Screen-shots
 
 ![Screenshot (1)](https://github.com/mare37/team-stats-task/assets/83783345/de8e2866-238e-4793-82a8-33c17ead932e)
+![Screenshot (5)](https://github.com/mare37/team-stats-task/assets/83783345/80b13cff-1f1d-4940-aa64-c805bcaab3f0)
+![Screenshot (6)](https://github.com/mare37/team-stats-task/assets/83783345/97b0eb41-634a-4e2f-9ff8-3cc114a01b46)
+![Screenshot (7)](https://github.com/mare37/team-stats-task/assets/83783345/ce342cdc-ff5b-4ed3-8658-41b6a17d3172)
+![Screenshot (2)](https://github.com/mare37/team-stats-task/assets/83783345/017c5472-56e6-48e8-9509-d65aa96d87cc)
+![Screenshot (3)](https://github.com/mare37/team-stats-task/assets/83783345/a47abc9d-420b-4944-9578-e85505bb829e)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
