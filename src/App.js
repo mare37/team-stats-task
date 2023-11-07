@@ -46,11 +46,9 @@ function App() {
     return obj;
   });
 
-  //Replacing old playersSessionStats array with finalArray.
-  //Data is now inorder and ready for sorting , mapping and display
+  //Reassigning playersSessionStats array in newData variable with finalArray.
+  //Data is now  ready for sorting in alphabetical order, mapping and display
   newData.playersSessionStats = finalArray;
-
-  console.log();
 
   return (
     <div className="App">

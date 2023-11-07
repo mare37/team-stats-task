@@ -1,11 +1,9 @@
 import "./App.css";
 import { AiOutlinePlus } from "react-icons/ai";
 
-
 /*
     IndividualPlayerStats Component represents an players entire data
     Destructure playerId, playerName and playersSessionStats object
-
 */
 function IndividualPlayerStats({ playerId, playerName, playersSessionStats }) {
   return (
@@ -40,18 +38,18 @@ function IndividualPlayerStats({ playerId, playerName, playersSessionStats }) {
         </div>
         <div>
           <p>Free Kicks</p>
-          <span>{playersSessionStats.corners}</span>
+          <span>{playersSessionStats.freeKicks}</span>
           <AiOutlinePlus />
         </div>
         <div>
           <p> Short Corners</p>
-          <span>{playersSessionStats.corners}</span>
+          <span>{playersSessionStats.shortCorners}</span>
           <AiOutlinePlus />
         </div>
 
         <div>
           <p>Tackles Won</p>
-          <span>{playersSessionStats.corners}</span>
+          <span>{playersSessionStats.tacklesWon}</span>
           <AiOutlinePlus />
         </div>
       </section>
