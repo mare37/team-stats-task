@@ -11,6 +11,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Screen-shots
+
+![Screenshot (1)](https://github.com/mare37/team-stats-task/assets/83783345/de8e2866-238e-4793-82a8-33c17ead932e)
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
